@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gumknuckle
 - 👀 I’m interested in Drone Mapping and Point Clouds
-- 🌱 I’m currently learning howto post process drone images beyond simple 2d photos
+- 🌱 I’m currently learning how to post process drone images beyond simple 2d photos
 - 💞️ I’m looking to collaborate on something to be decided in the future
 - 📫 How to reach me will be provided later once I have figured it out .....
 
